@@ -1,4 +1,8 @@
 # LiaScript novo2
+
+What did the fish say when he swam into the wall?
+
+    [[dam]]
 ## Multimetdia hello world
 - [[ ]] Empty means not checked
 - [[X]] Uppercase `X` means checked ...
