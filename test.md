@@ -1,5 +1,5 @@
 # LiaScript novo2
-## Multimetdia2
+## Multimetdia hello world
 - [[ ]] Empty means not checked
 - [[X]] Uppercase `X` means checked ...
 - [[x]] ... and lowercase `x` too ...
