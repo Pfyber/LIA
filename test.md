@@ -20,10 +20,20 @@ Da bi pridobili praktične izkušnje, bomo preučili tudi konkretne primere (cas
 
 Na koncu bomo pridobili znanje in veščine za upravljanje s Flask ogrodjem, ki nam bo omogočilo izgradnjo lastnega strežnika ter razvoj in upravljanje lastne spletne storitve.
 
-## podpoglavje 1
-snov podpoglavja
+## Full Stack
+Full stack se nanaša na sposobnost in strokovnost razvijalca, da deluje na vseh plasteh ("stacku") programskega razvoja, kar vključuje tako strežniško (backend) kot tudi odjemalsko (frontend) stran aplikacije.
 
-# LiaScript novo2
+V razvoju programske opreme se običajno ločuje med backend in frontend razvojem. Backend se nanaša na del razvoja, ki se ukvarja z obdelavo podatkov, strežniško logiko, podatkovnimi bazami in delovanjem na strani strežnika. Vključuje uporabo jezikov in orodij, kot so Python, C#, Java, PHP, SQL, MongoDB itd.
+
+Po drugi strani pa frontend razvoj zajema ustvarjanje uporabniškega vmesnika in interakcijo z uporabniki. Vključuje uporabo jezikov in tehnologij, kot so HTML, CSS, JavaScript, Angular, React, Vue.js itd.
+
+Full stack razvijalec ima znanje in spretnosti za delo tako na backend kot tudi na frontendu. To pomeni, da je sposoben obvladovati celoten razvojni proces, vključno z načrtovanjem, oblikovanjem, razvojem, testiranjem in vzdrževanjem celotne aplikacije. Full stack razvijalec lahko zgradi tako spletni strežnik in API-je, kot tudi uporabniški vmesnik in interaktivnost na strani odjemalca.
+
+Prednosti "full stack" razvijalca vključujejo boljšo sposobnost sodelovanja z ekipo, širši obseg odgovornosti in večjo samostojnost pri razvoju. Full stack razvijalci lahko prevzamejo vodilno vlogo pri projektih, saj imajo celovit pogled na celoten razvojni proces. Prav tako imajo večjo fleksibilnost pri prehajanju med različnimi tehnologijami in orodji ter boljšo sposobnost reševanja težav in iskanja celovitih rešitev.
+
+Pomembno je omeniti, da full stack razvijalec ne pomeni, da mora posameznik biti strokovnjak na vseh področjih. Vendar pa je sposoben delati in se spopasti z izzivi na obeh straneh, kar prispeva k boljšemu razumevanju celotnega razvojnega procesa in omogoča učinkovito sodelovanje z drugimi strokovnjaki v ekipi.
+
+# API-ji
 
 What did the fish say when he swam into the wall?
 
